@@ -14,7 +14,7 @@ Es por ello que en el 2020 decidí echarme en la aventura del código y los dato
 Aquí les presento el resultado.
 
 
-<h2>¿Qué vas a conseguir en mi Git?</h2>
+<h2>¿Qué vas a conseguir en mi Github?</h2>
 
 -Proyectos de Análisis de datos y Visualización:
 
