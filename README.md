@@ -2,6 +2,7 @@
 
 <h1>Hello World! 👋📊🚀</h1>
 
+
 <h2>About me:</h2>
 
 Soy Analísta de datos y DBA con background en análisis y procesamiento de componentes biológicos.
@@ -12,31 +13,23 @@ Es por ello que en el 2020 decidí echarme en la aventura del código y los dato
 
 Aquí les presento el resultado.
 
-<h2>·Qué vas a conseguir en mi Git:</h2>
 
--Proyectos de Análisis de datos y Visualización
+<h2>¿Qué vas a conseguir en mi Git?</h2>
+
+-Proyectos de Análisis de datos y Visualización:
 
 [Heart-Attack-Project](https://github.com/Joycelili/Heart-Attack-Project) Se crea un proyecto de salud el cual se pueda ofrecer como producto, realizando la limpieza de un dataframe de escogencia y realizando los análisis pertinentes para su presentación.
 
--Labs de un bootcamp que he realizado
+-Machine Learning:
 
--Ejercicios de Codewars resueltos en python (mi 1er lenguaje de programación)
+-APIS:
 
-<h2>·:</h2>
+-Labs de Bootcamp:
 
-Se importaron Todos los paquetes a necesitar como Pandas, Numpy, y un paquete para poder expresar los gráficos llamado pyplot.
-  
-Seguido de un primer contacto con los datos, viendo su forma, cantidad de elementos nulos que poseían sus columnas, cantidad de filas y elementos duplicados por columnas y filas.
+-Pre-work Bootcamp:
 
-Posteriormente se realizó una limpieza primaria. En donde se cambió el nombre de las columnas para su mejor entendimiento
+-Ejercicios de Codewars resueltos en python (mi 1er lenguaje de programación):
 
-<h2>·Resultados:</h2>
-
-.La Mayoría de los ataques cardiacos se ven precedidos de algun tipo de dolor, con prevalencia del dolor no anginal
-
-.Las mujeres tienden a sufrir mayor dolor de pecho, no provocado por un ataque cardíaco.
-
-.La hipercolesterolemia e hiperglucemia no están correlacionados directamente con los ataques al corazón.
 
 <h2>·Lenguajes y Herramientas:</h2>
 
@@ -46,15 +39,3 @@ Posteriormente se realizó una limpieza primaria. En donde se cambió el nombre 
 <h2>·Contacto:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Joyce_Acevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/joyce-acevedo-salcedo/)](https://www.linkedin.com/in/joyce-acevedo-salcedo/)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
