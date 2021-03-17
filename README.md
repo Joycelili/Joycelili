@@ -16,7 +16,7 @@ Aquí les presento el resultado.
 
 <h2>¿Qué vas a conseguir en mi Github?</h2>
 
-**Proyectos de Análisis de datos y Visualización:**
+**-Análisis de datos y Visualización:**
 
 [Heart-Attack-Project:](https://github.com/Joycelili/Heart-Attack-Project) Se crea un proyecto de salud el cual se pueda ofrecer como producto, realizando la limpieza de un dataframe de escogencia y realizando los análisis pertinentes para su presentación.
 
@@ -26,23 +26,28 @@ Aquí les presento el resultado.
 
 [Diamonts-Project](https://github.com/Joycelili/Diamonts-Project) Desarrollo de multiples modelos de Machine Learning para predecir el precio de los Diamantes
 
-[inal-Project](https://github.com/Joycelili/Final-Project) Clasificador de perros y gatos entrenado con machine learning
+[inal-Project](https://github.com/Joycelili/Final-Project) Clasificador de perros y gatos entrenado con machine learning.
 
--APIS:
+**-APIS:**
 
 [Ranking-Project:](https://github.com/Joycelili/Raking-Project) A partir del API de Github, creamos una nueva API. Utilizamos Flask, Pymongo y MongoDB Atlas para ello.
 
 [Top Free Games Google Play:](https://github.com/Joycelili/Project-3) Enriquecimiento de un dataframe de Kaggle con datos de la API de Google Play
 
--Pre-work Bootcamp:
 
-[Apocalypsis exercise:](https://github.com/Joycelili/prework-datamad-apocalypsis-exercise)Ejercicio apocaliptico resuelto en Python, en el que debes distribuir las armas y las municiones.
+**-Ejercicios de Codewars resueltos en python:**
+
+[Katas diarias:](https://github.com/Joycelili/Katas-Exercises) Ejercicios de Codewars y Snakify que resulvo con Python y explico paso por paso.
+
+**-Prework Bootcamp:**
+
+[Apocalypsis exercise:](https://github.com/Joycelili/prework-datamad-apocalypsis-exercise) Ejercicio apocaliptico resuelto en Python, en el que debes distribuir las armas y las municiones.
 
 [Pre-work:](https://github.com/Joycelili/prework-JoyceAcevedo) Compuesto por 8 ejercicios resueltos en Python.
 
--Ejercicios de Codewars resueltos en python:
+**-Labs del Bootcamp**
 
-[Katas diarias:](https://github.com/Joycelili/Katas-Exercises) Codewars, Snakify y ejercicios que voy resolviendo con Python
+[Labs:](https://github.com/Joycelili/prework-JoyceAcevedo) Muchos labs resueltos del Bootcamp.
 
 <h2>·Lenguajes y Herramientas:</h2>
 
