@@ -16,13 +16,13 @@ Aquí les presento el resultado.
 
 <h2>¿Qué vas a conseguir en mi Github?</h2>
 
--Proyectos de Análisis de datos y Visualización:
+**Proyectos de Análisis de datos y Visualización:**
 
 [Heart-Attack-Project:](https://github.com/Joycelili/Heart-Attack-Project) Se crea un proyecto de salud el cual se pueda ofrecer como producto, realizando la limpieza de un dataframe de escogencia y realizando los análisis pertinentes para su presentación.
 
 [Project-Sharcknado:](https://github.com/Joycelili/Project-Sharcknado) Un Dataset muy desordenado, tiburones hambrientos y una analísta de datos demostrandoo su capacidad de limpieza y análisis.
 
--Machine Learning:
+**-Machine Learning:**
 
 [Diamonts-Project](https://github.com/Joycelili/Diamonts-Project) Desarrollo de multiples modelos de Machine Learning para predecir el precio de los Diamantes
 
