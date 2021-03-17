@@ -18,18 +18,31 @@ Aquí les presento el resultado.
 
 -Proyectos de Análisis de datos y Visualización:
 
-[Heart-Attack-Project](https://github.com/Joycelili/Heart-Attack-Project) Se crea un proyecto de salud el cual se pueda ofrecer como producto, realizando la limpieza de un dataframe de escogencia y realizando los análisis pertinentes para su presentación.
+[Heart-Attack-Project:](https://github.com/Joycelili/Heart-Attack-Project) Se crea un proyecto de salud el cual se pueda ofrecer como producto, realizando la limpieza de un dataframe de escogencia y realizando los análisis pertinentes para su presentación.
+
+[Project-Sharcknado:](https://github.com/Joycelili/Project-Sharcknado) Un Dataset muy desordenado, tiburones hambrientos y una analísta de datos demostrandoo su capacidad de limpieza y análisis.
 
 -Machine Learning:
 
+[Diamonts-Project](https://github.com/Joycelili/Diamonts-Project) Desarrollo de multiples modelos de Machine Learning para predecir el precio de los Diamantes
+
+[inal-Project](https://github.com/Joycelili/Final-Project) Clasificador de perros y gatos entrenado con machine learning
+
 -APIS:
 
--Labs de Bootcamp:
+[Ranking-Project:](https://github.com/Joycelili/Raking-Project) A partir del API de Github, creamos una nueva API. Utilizamos Flask, Pymongo y MongoDB Atlas para ello.
+
+[Top Free Games Google Play:](https://github.com/Joycelili/Project-3) Enriquecimiento de un dataframe de Kaggle con datos de la API de Google Play
 
 -Pre-work Bootcamp:
 
--Ejercicios de Codewars resueltos en python (mi 1er lenguaje de programación):
+[Apocalypsis exercise:](https://github.com/Joycelili/prework-datamad-apocalypsis-exercise)Ejercicio apocaliptico resuelto en Python, en el que debes distribuir las armas y las municiones.
 
+[Pre-work:](https://github.com/Joycelili/prework-JoyceAcevedo) Compuesto por 8 ejercicios resueltos en Python.
+
+-Ejercicios de Codewars resueltos en python:
+
+[Katas diarias:](https://github.com/Joycelili/Katas-Exercises) Codewars, Snakify y ejercicios que voy resolviendo con Python
 
 <h2>·Lenguajes y Herramientas:</h2>
 
